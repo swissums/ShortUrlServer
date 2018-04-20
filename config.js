@@ -5,7 +5,7 @@ const dbconfig = {
     database: 'UrlShort'
 }
 
-const table = 'urls'
+const table = ''
 
 const mainDomain = 'something.io/'
 
