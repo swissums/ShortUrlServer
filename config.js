@@ -7,6 +7,6 @@ const dbconfig = {
 
 const table = 'urls'
 
-const mainDomain = 'nowtili.us/'
+const mainDomain = 'something.io/'
 
 module.exports = { dbconfig: dbconfig, mainDomain: mainDomain, table: table }
